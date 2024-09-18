@@ -1,11 +1,4 @@
-# Lab
-
-1.  Clone git repo: `git clone https://github.com/ibm-developer-skills-network/sfvih-Back-end-Development-Capstone.git`
-2.  Get into the directory by `cd sfvih-Back-end-Development-Capstone`
-3.  Get into Django code `cd djangoserver`
-4.  Install requirements `pip install -r requirements.txt`
-5.  Run the server `python manage.py runserver`
-6.  It will tell you that you have unapplied migrations.
+# About Project
 
     **Migrations** are Django’s way of propagating changes you make to your models (adding a field, deleting a model, etc.) into your database schema. They’re designed to be mostly automatic, but you’ll need to know when to make migrations, when to run them, and the common problems you might run into. There are several commands which you will use to interact with migrations and Django’s handling of database schema:
 
